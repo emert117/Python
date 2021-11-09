@@ -5,4 +5,4 @@ print(x)
 name = "emre"
 print(name * 2)
 
-print("{0} {1}", name, price)
+print("name:", name, "price:", price)
