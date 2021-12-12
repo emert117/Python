@@ -19,3 +19,6 @@ def say_hello(name, surname):
     print(f"hello {name} {surname}")
 
 say_hello(surname="mert", name="emre")
+
+def multiply(x, y=2): # default parameter
+    return x* y
