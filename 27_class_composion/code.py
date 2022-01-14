@@ -1,5 +1,5 @@
 class BookShelf():
-    def __init__(self, *books):
+    def __init__(self, *books): # (self, List[Book]) # from typing import List
         self.books = books
     
     def __str__(self):
