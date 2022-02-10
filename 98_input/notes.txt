@@ -1,0 +1,3 @@
+# cat mytext.txt | python3 code.py 
+# echo "55 \n mert" | python3 code.py
+# printf "55\nmert" | python3 code.py 
